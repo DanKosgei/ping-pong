@@ -1,5 +1,5 @@
 #specifications
-####This application will take a number from a user and return a range of numbers from 1 to the chosen number with certain 'fun' exceptions 01/22/2016_
+####This application will take a number from a user and return a range of numbers from 1 to the chosen number with certain 'fun' exceptions.
 
 #### By Dan Kosgei
 
