@@ -1,12 +1,12 @@
 h1 {
   text-align: center;
   background-color: wheat;
-  background-position: left;
+  height: 100px;
 
 }
 #play {
-  background-color: grey;
+  background-color: gainsboro;
 }
 #pong {
-  background-color: lightgreen;
+  background-color: mediumseagreen;
 }
