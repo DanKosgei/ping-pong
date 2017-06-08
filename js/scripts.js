@@ -20,7 +20,7 @@ var countUp = function(countTo){
   return result;
 };
 
-//User Interface Logic
+//User Interface 
 $(document).ready(function(){
   $("#userInput").submit(function(event){
     $("#output").empty();

@@ -1,6 +1,8 @@
 h1 {
   text-align: center;
-  background-color: khaki;
+  background-color: wheat;
+  background-position: left;
+
 }
 #play {
   background-color: grey;
